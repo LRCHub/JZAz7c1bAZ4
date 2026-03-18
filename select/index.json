@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Nighthawks",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-03-18T11:02:47.062990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/01_Nighthawks_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "The Midnight",
+      "has_synced": true,
+      "path": "select/02_Nighthawks_The_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nighthawks Dropping",
+      "artist": "As Animals",
+      "has_synced": false,
+      "path": "select/03_Nighthawks_Dropping_As_Animals.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "Jeff Beck",
+      "has_synced": false,
+      "path": "select/04_Nighthawks_Jeff_Beck.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/05_Nighthawks_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Anything Goes (with Vince Giordano & The Nighthawks)",
+      "artist": "Cole Porter/Vince Giordano/The Nighthawks",
+      "has_synced": true,
+      "path": "select/06_Anything_Goes_(with_Vince_Giordano_&_The_Nighthawks)_Cole_Porter_Vince_Giordano_The_Nighthawks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "Whitehorse",
+      "has_synced": true,
+      "path": "select/07_Nighthawks_Whitehorse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/08_Nighthawks_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Anything Goes (with Vince Giordano & The Nighthawks)",
+      "artist": "Cole Porter",
+      "has_synced": false,
+      "path": "select/09_Anything_Goes_(with_Vince_Giordano_&_The_Nighthawks)_Cole_Porter.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/10_Nighthawks_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Anything Goes (with Vince Giordano & The Nighthawks)",
+      "artist": "Cole Porter",
+      "has_synced": true,
+      "path": "select/11_Anything_Goes_(with_Vince_Giordano_&_The_Nighthawks)_Cole_Porter.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "IVOXYGEN",
+      "has_synced": false,
+      "path": "select/12_Nighthawks_IVOXYGEN.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "Two Hours Traffic",
+      "has_synced": true,
+      "path": "select/13_Nighthawks_Two_Hours_Traffic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nighthawks",
+      "artist": "The Midnight",
+      "has_synced": true,
+      "path": "select/14_Nighthawks_The_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nighthawks (Album Version)",
+      "artist": "Jeff Beck",
+      "has_synced": false,
+      "path": "select/15_Nighthawks_(Album_Version)_Jeff_Beck.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nighthawks",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Nighthawks_米津玄師.txt"
+    }
+  ]
+}
